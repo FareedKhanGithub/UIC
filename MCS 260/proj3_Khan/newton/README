@@ -1,0 +1,29 @@
+Fareed Khan
+MCSClassId: 104
+Mcs260, Summer 2016,Project 3
+File: main.py, poly.py
+Program Description:
+
+
+Program to import poly.py to use functions to get poly_prime() and eval_poly(),
+newton() to find roots of the polynomial. Continue from w8L1 and where each created functions to evaluate polynomials 
+and find the derivative of a polynomial. Make a function to use newtons method to 
+find the roots and define functions or evaluating polynomials and finding the 
+derivative of a polynomial these are needed for newtons method for finding 
+roots of polynomials.
+
+It will Do:
+1. input polynomial
+2. prompt for: x0, tol, MAX_ITR
+3. call newton to find roots (if exists)
+4. user can repeat with same polynomial but different  x0, tol and 
+MAX_ITR.
+5. newton() tests for divide-by-zero, method not converging.
+ 
+To use:
+	front user needs to type in the terminal python main.py and then type in the 
+	values.
+
+
+
+

@@ -1,0 +1,23 @@
+Fareed Khan
+MCSClassId: 104
+Mcs260, Summer 2016, Project 2
+Program Description:
+
+The assignment had a typo that said to put a "S" in Sweatshirt. I wanted to change
+the S to s but this may put risk on losing the git commits related to the file.
+
+
+	The program works by the Frontuser inputing the information
+of the amount of shirts in each catagory of size and then in
+each catagory of College. Starting from College 1 and ending in College 7.
+All of these data inputs are then stored in a 2 dimensional list which is 
+displayed in the screen (terminal).
+
+
+	The program test1.txt is just an aid for testing so the frontuser 
+doesnt need to keep on typing numbers repeatedly for small adjustments. 
+Inorder to adjust test1.txt you need to change the first number in each row. 
+Once done then right beside theprogram insert "<" and type the test1.py program 
+then run. 
+
+
