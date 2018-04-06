@@ -1,0 +1,20 @@
+Fareed Khan
+MCSClassId: 104
+Mcs260, Summer 2016, Project 1
+Program Description:
+
+These are the results of all possible scenarios that can occur in the program.
+# all complex numbers are roots
+# no real or complex roots
+# one root:
+# perfect square => double root
+# two real roots
+# two complex roots
+
+
+ 
+This program reads the text file (quadabc.txt) and uses the numbers in the 
+text file and then outputs the answers to the quadratic formula.
+Inorder to use the program you need to put three numbers in the 
+infile(quadabc.txt) then go to the terminal and put python main.py and press enter.
+The results will be written to the outfile (quadroots.txt).

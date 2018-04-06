@@ -1,0 +1,31 @@
+#--------------
+# file contains a,b,c the coeffiencients
+#f(x) = ax^2 + bx + c
+# a,b,c can be any real number
+# if quadratic:  descriminant d = b^2 - 4ac
+
+#------------------------------------
+# all complex numbers are roots
+    0.0 0.0 0.0
+# no real or complex roots
+    0.0 0.0 1.0 
+# one root: x = -2
+    0.0 2.0 4.0
+# perfect square => double root
+    1.0 2.0 1.0
+# two real roots, negative in b case
+    1.0 -5.0 6.0
+#negative in a case  
+    -1.0 5.0 6.0
+#negative in c case
+    1.0 5.0 -6.0
+# two complex roots
+    1.0 2.0 3.0
+#Prof. Loman
+    1.6 9.8 100.0
+#--------------------------------------
+
+#----end data------------------
+
+
+
