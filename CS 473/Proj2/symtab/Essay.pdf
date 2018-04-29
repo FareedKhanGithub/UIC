@@ -1,0 +1,18 @@
+Fareed Khan
+Prof.Venkata Krishnan
+PROJECT 2
+
+    I would rate this project a 3 in difficulty because of pointers and the importance
+ of emphasizing and picturing the concepts and how the data structures point 
+amongst eachother. I would suggest giving a snippet of example code that shows 
+how pointing works and how going about pointing objects. I would also recommend 
+changing the picture into which main pointer contains two pointers scopeprevious 
+and symboltab.Then that pointer that points to a hash and that hash then points to a linked list, 
+this visual imagery on the homework would be helpful.I had real trouble trying to 
+troubleshooting the code because of the printSummary function. I learned alot 
+about how pointing can be used alot in deleting and building certain data structures. 
+As for errors it seems that my hash_function isnt working properly which is leading
+to sig_fault. I also learned more skill in troubleshooting thru concepts on paper
+ and seeing errors in concept rather than in programming. I also learned more in
+depth version of hash tables and implementing their relationship with a linked list.
+    
