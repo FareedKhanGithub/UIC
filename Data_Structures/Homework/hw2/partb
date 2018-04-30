@@ -1,0 +1,5 @@
+B) The most optimal method for implementing the Ackerman Function would be the recursive method. 
+Because Non-Recursive a linear loop in which the code ends when loop condition no longer applies.
+Recursive is easier to implement and apply in continous changing enviroment amongst multiple variables 
+that can iterate downwards or upwards in same structure until the conditions no longer apply and 
+then go through the if statement.
