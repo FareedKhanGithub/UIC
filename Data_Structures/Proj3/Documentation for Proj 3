@@ -1,0 +1,25 @@
+clear inline comments
+
+1)how to set variables.
+
+before the program is run, the user the will need insert the numbers into input1
+where interger has its own line. User will then run the cpp file. User 
+will be prompted to set the m(chunk sizes).
+
+
+2) THe general algorithm.
+
+Reads input file, m numbers at a time. Sorts locally within the size m, writes to 
+output1 and output2 files. Sorts based of chunk number m and writes them back into 
+input1 and input2.
+Merges input1 and input2 and sorts based off the full chunks then that is written
+to output1. Numbers that are not part of full chunks are sorted and
+written into output2.Output1 and output2 are merged and sorted,
+thus creates sorted.txt
+
+
+
+3) What is the purpose of the program?
+
+The purpose of the project is do a 2 way merge sort which allows the frontuser to 
+adjust the size of m and use a list of numbers from a text file.  
