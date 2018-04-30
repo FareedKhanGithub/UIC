@@ -1,0 +1,17 @@
+
+The World Wide Web's extraordinary reach is based in part on its open assimilation 
+of document formats. Although Web transfer protocols and addressing can accommodate
+ any kinds of resources, the unique application context of a truly global 
+hypermedia system favours the adoption of certain Web-adapted formats. 
+In this paper we consider the evolutionary record that has led to the ascent of 
+the eXtensible Markup Language (XML). We present a taxonomy of document species 
+in the Web according to their sy:wntax, style, structure, and semantics. We observe 
+the preferential adoption of SGML, CSS, HTML, and XML, respectively, which 
+leverage a parsimonious evolutionary strategy favouring declarative encodings 
+over Turing-complete languages; separable styles over inline formatting; 
+declarative markup over presentational markup; and well-defined semantics over 
+operational behavior. The paper concludes with an evolutionary walkthrough of 
+citation formats. Ultimately, combined with the self-referential power of the Web 
+to document itself, we believe XML can 
+catalyze a critical shift of the Web from a global information space into a 
+universal knowledge network. 
